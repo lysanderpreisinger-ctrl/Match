@@ -4,3 +4,5 @@ node_modules/
 .DS_Store
 *.zip
 Archiv.zip
+supabase/functions/Archiv.zip
+supabase/functions/stripe-webhook/Archiv.zip
